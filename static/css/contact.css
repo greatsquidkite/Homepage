@@ -1,0 +1,11 @@
+main {
+	max-width: 300px;
+	background-color: rgba(250, 235, 215, .5);
+	border-style: groove;
+	margin: 0 auto;
+	text-align: center;
+}
+
+#bufferspace {
+	padding-top: 36px;
+}
