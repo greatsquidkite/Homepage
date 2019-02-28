@@ -18,5 +18,9 @@ def resume():
 def contact():
 	return render_template("contact.html")
 
+@app.route("/photography")
+def photography():
+	return render_template("photography.html")
+
 if __name__ == "__main__":
 	app.run(debug=True)

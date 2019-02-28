@@ -4,6 +4,7 @@ main {
 	border-style: groove;
 	margin: 0 auto;
 	text-align: center;
+	box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 #bufferspace {
