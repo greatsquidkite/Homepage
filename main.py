@@ -23,4 +23,4 @@ def photography():
 	return render_template("photography.html")
 
 if __name__ == "__main__":
-	app.run(debug=True)
+	app.run()
